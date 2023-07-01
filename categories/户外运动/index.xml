@@ -1,0 +1,77 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>户外运动 - 分类 - 冰岩之舞</title>
+        <link>http://hemind.github.io/categories/%E6%88%B7%E5%A4%96%E8%BF%90%E5%8A%A8/</link>
+        <description>户外运动 - 分类 - 冰岩之舞</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 01 Mar 2023 16:51:56 &#43;0100</lastBuildDate><atom:link href="http://hemind.github.io/categories/%E6%88%B7%E5%A4%96%E8%BF%90%E5%8A%A8/" rel="self" type="application/rss+xml" /><item>
+    <title>一些阿尔卑斯攀登滑雪博客</title>
+    <link>http://hemind.github.io/posts/alps-climbing-blogs/</link>
+    <pubDate>Wed, 01 Mar 2023 16:51:56 &#43;0100</pubDate>
+    <author>作者</author>
+    <guid>http://hemind.github.io/posts/alps-climbing-blogs/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>雪崩学习教程 Ortovox Lab Snow</title>
+    <link>http://hemind.github.io/posts/avalanche-notes-ortovox-lab-snow/</link>
+    <pubDate>Mon, 05 Dec 2022 00:00:45 &#43;0100</pubDate>
+    <author>作者</author>
+    <guid>http://hemind.github.io/posts/avalanche-notes-ortovox-lab-snow/</guid>
+    <description><![CDATA[<p>系统学习雪崩知识和救援。</p>]]></description>
+</item><item>
+    <title>德国滑雪场的网络摄像头</title>
+    <link>http://hemind.github.io/posts/webcams_in_de/</link>
+    <pubDate>Tue, 22 Feb 2022 14:45:19 &#43;0100</pubDate>
+    <author>作者</author>
+    <guid>http://hemind.github.io/posts/webcams_in_de/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>卫星短信机比较</title>
+    <link>http://hemind.github.io/posts/satellite-messenger/</link>
+    <pubDate>Sat, 08 Jan 2022 06:41:00 &#43;0100</pubDate>
+    <author>作者</author>
+    <guid>http://hemind.github.io/posts/satellite-messenger/</guid>
+    <description><![CDATA[<p>市面上各种最新的卫星短信机的比较。</p>]]></description>
+</item><item>
+    <title>最新雪崩收发器比较</title>
+    <link>http://hemind.github.io/posts/avalanche-beacon/</link>
+    <pubDate>Fri, 07 Jan 2022 22:55:00 &#43;0100</pubDate>
+    <author>作者</author>
+    <guid>http://hemind.github.io/posts/avalanche-beacon/</guid>
+    <description><![CDATA[<p>市面上各种最新的雪崩收发器的比较，Arva、BCA、Mammut、Ortovox、Pieps、Black Diamond。</p>]]></description>
+</item><item>
+    <title>霞慕尼南针峰 Cosmiques Ridge 独攀随想</title>
+    <link>http://hemind.github.io/posts/cosmiques-ridge-2020/</link>
+    <pubDate>Tue, 30 Mar 2021 00:15:05 &#43;0200</pubDate>
+    <author>作者</author>
+    <guid>http://hemind.github.io/posts/cosmiques-ridge-2020/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>2019年底滑雪笔记</title>
+    <link>http://hemind.github.io/posts/skiing-notes-2019/</link>
+    <pubDate>Mon, 29 Mar 2021 23:31:24 &#43;0200</pubDate>
+    <author>作者</author>
+    <guid>http://hemind.github.io/posts/skiing-notes-2019/</guid>
+    <description><![CDATA[<p>入门滑雪，开始练习平行式。</p>]]></description>
+</item><item>
+    <title>地理藏宝指南</title>
+    <link>http://hemind.github.io/posts/geocaching-hiding-guidelines/</link>
+    <pubDate>Mon, 29 Mar 2021 20:53:03 &#43;0200</pubDate>
+    <author>作者</author>
+    <guid>http://hemind.github.io/posts/geocaching-hiding-guidelines/</guid>
+    <description><![CDATA[<p>如何藏下一个地理藏宝。本文翻译自 <a href="https://www.geocaching.com/play/guidelines" target="_blank" rel="noopener noreffer">Geocache hiding guidelines</a>，原文作者 <a href="https://www.geocaching.com" target="_blank" rel="noopener noreffer">Geocaching.com</a>。</p>]]></description>
+</item><item>
+    <title>浙东大峡谷 2019 押队总结</title>
+    <link>http://hemind.github.io/posts/zhe-dong-2019/</link>
+    <pubDate>Tue, 24 Nov 2020 08:38:35 &#43;0100</pubDate>
+    <author>作者</author>
+    <guid>http://hemind.github.io/posts/zhe-dong-2019/</guid>
+    <description><![CDATA[<p>毕业前的最后一条线，我的押队总结报告。</p>]]></description>
+</item><item>
+    <title>2018 攀岩笔记</title>
+    <link>http://hemind.github.io/posts/climbing-notes-2018/</link>
+    <pubDate>Tue, 24 Nov 2020 07:25:31 &#43;0100</pubDate>
+    <author>作者</author>
+    <guid>http://hemind.github.io/posts/climbing-notes-2018/</guid>
+    <description><![CDATA[<p>这是2018年年底进阶攀岩班的训练日志。</p>]]></description>
+</item></channel>
+</rss>
